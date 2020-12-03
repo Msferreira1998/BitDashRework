@@ -1,0 +1,18 @@
+.hora{ 
+    font-family: 'Orbitron', sans-serif;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    letter-spacing: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+    text-shadow: 2px 2px 5px black;
+}
+
+p{
+    font-size: 30px;
+}
